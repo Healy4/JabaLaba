@@ -1,3 +1,5 @@
+import java.lang.*;
+
 public class TestShape {
     public static void main(String[] args) {
         Shape s1 = new Circle("Red", false, 5.5);
